@@ -17,10 +17,10 @@
 
 ### Currently I'm studying Go and relevant techs
 
-### List of Go projects
+###Go projects
 - [yap-shortener](https://github.com/msmkdenis/yap-shortener) - current studying project: echo, postgresql, migrate, zap, gomock  
 
-### List of Java projects
+###Java projects
 - [yandex-lavka-2023](https://github.com/msmkdenis/yandex-lavka-2023) - entrance test project for yandex backend school: spring boot, jpa, postgresql
 - [java-explore-with-me](https://github.com/msmkdenis/java-explore-with-me) - graduation project: spring boot, jpa, postgresql, docker
 - [java-filmorate](https://github.com/msmkdenis/java-explore-with-me) - group project: spring boot, jdbc, postgresql
