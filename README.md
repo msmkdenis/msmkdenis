@@ -15,7 +15,4 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  title="Git" alt="Git" width="40" height="40"/>&nbsp;
 
 </div>
-<h2> </h2>
-<div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msmkdenis&layout=compact)
-</div>
+
