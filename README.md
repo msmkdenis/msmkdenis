@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Denis
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm interested in backend web development 🇷🇺</h3>
-<h2 align="center"> Languages and Tools : </h2>
+<h2 align="center"> Current stack : </h2>
 
 <div align="center">
 
