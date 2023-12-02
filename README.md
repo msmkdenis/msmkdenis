@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Denis
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm interested in backend web development 🇷🇺</h3>
-<h2> </h2>
-Languages and Tools :
+<h2 align="center"> Languages and Tools : </h2>
+
 <div align="center">
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40"/>&nbsp;
@@ -16,5 +16,6 @@ Languages and Tools :
 
 </div>
 <h2> </h2>
-
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msmkdenis&layout=compact)
+</div>
