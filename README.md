@@ -20,6 +20,12 @@
 ### Go projects
 - [yap-shortener](https://github.com/msmkdenis/yap-shortener) - current studying project: echo, postgresql, migrate, zap, gomock  
 
+### SQL projects
+educational projects with main purpose to train large variety of sql-related skills
+- [sql-all-recorded](https://github.com/msmkdenis/SQL-All-Recorded) - project with use of pl/pgsql functions, triggers, procedures aimed to train server-side sql development
+- [sql-gastro-hub](https://github.com/msmkdenis/SQL-Gastro-Hub) - project with use of cte aimed to train more advanaced sql skills along with postgresql postgis extension
+- [sql-vroom-boom](https://github.com/msmkdenis/SQL-Vroom-Boom) - project with use of basic sql skills (ddl, dml queries).   
+
 ### Java projects
 - [yandex-lavka-2023](https://github.com/msmkdenis/yandex-lavka-2023) - entrance test project for yandex backend school: spring boot, jpa, postgresql
 - [java-explore-with-me](https://github.com/msmkdenis/java-explore-with-me) - graduation project: spring boot, jpa, postgresql, docker
