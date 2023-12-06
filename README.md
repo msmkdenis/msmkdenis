@@ -18,7 +18,7 @@
 ### Currently I'm studying Go and relevant techs
 
 ### Go projects
-- [yap-shortener](https://github.com/msmkdenis/yap-shortener) - current educational project: echo, postgresql, migrate, zap, gomock  
+- [yap-shortener](https://github.com/msmkdenis/yap-shortener) - ongoing educational project: echo, postgresql, migrate, zap, gomock  
 
 ### SQL projects
 educational projects with main purpose to train variety of sql-related skills
