@@ -21,7 +21,7 @@
 - [yap-shortener](https://github.com/msmkdenis/yap-shortener) - current educational project: echo, postgresql, migrate, zap, gomock  
 
 ### SQL projects
-educational projects with main purpose to train large variety of sql-related skills
+educational projects with main purpose to train variety of sql-related skills
 - [sql-all-recorded](https://github.com/msmkdenis/SQL-All-Recorded) - project with use of pl/pgsql functions, triggers, procedures aimed to train server-side sql development
 - [sql-gastro-hub](https://github.com/msmkdenis/SQL-Gastro-Hub) - project with use of cte aimed to train more advanaced sql skills along with postgresql postgis extension
 - [sql-vroom-boom](https://github.com/msmkdenis/SQL-Vroom-Boom) - project with use of basic sql skills (ddl, dml queries).   
