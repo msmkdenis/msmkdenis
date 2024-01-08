@@ -22,6 +22,7 @@
 
 ### SQL projects
 educational projects with main purpose to train variety of sql-related skills
+- [sql-gastro-hub-delivery-part-2](https://github.com/msmkdenis/SQL-Gastro-Hub-Delivery_Part_2) - second part of final project to train db optimization (queries)
 - [sql-gastro-hub-delivery-part-1](https://github.com/msmkdenis/SQL-Gastro-Hub-Delivery_Part_1) - first part of final project to train db optimization (structure)
 - [sql-all-recorded](https://github.com/msmkdenis/SQL-All-Recorded) - project with use of pl/pgsql functions, triggers, procedures aimed to train server-side sql development
 - [sql-gastro-hub](https://github.com/msmkdenis/SQL-Gastro-Hub) - project with use of cte aimed to train more advanaced sql skills along with postgresql postgis extension
