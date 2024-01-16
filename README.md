@@ -18,6 +18,7 @@
 ### Currently I'm studying Go and relevant techs
 
 ### Go projects
+- [yap-gophermart](https://github.com/msmkdenis/yap-gophermart?tab=readme-ov-file) - graduate project: http, echo, postgresql, migrate, zap, gomock  
 - [yap-shortener](https://github.com/msmkdenis/yap-shortener) - ongoing educational project: echo, postgresql, migrate, zap, gomock  
 
 ### SQL projects
