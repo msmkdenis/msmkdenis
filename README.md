@@ -32,4 +32,4 @@ educational projects with main purpose to train variety of sql-related skills
 ### Java projects
 - [yandex-lavka-2023](https://github.com/msmkdenis/yandex-lavka-2023) - entrance test project for yandex backend school: spring boot, jpa, postgresql
 - [java-explore-with-me](https://github.com/msmkdenis/java-explore-with-me) - graduation project: spring boot, jpa, postgresql, docker
-- [java-filmorate](https://github.com/msmkdenis/java-explore-with-me) - group project: spring boot, jdbc, postgresql
+- [java-filmorate](https://github.com/msmkdenis/java-filmorate) - group project: spring boot, jdbc, postgresql
