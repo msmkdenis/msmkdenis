@@ -1,10 +1,14 @@
 <h1 >Hi there, I'm Denis <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 >I'm interested in backend web development</h3>
 
+<h3 > Contact with me: </h3>
 
+<div >
 <p align="left">
 <a href="https://t.me/kmsdenis" target="blank"><img align="center" src="https://github.com/msmkdenis/msmkdenis/blob/main/telegram-paper-airplane-apps-svgrepo-com.svg" alt="" height="30" width="40" /></a>
 </p>
+
+<div >
 
 <h2 > Tech stack : </h2>
 
