@@ -24,7 +24,7 @@
 
 </div>
 
-### Currently I'm studying Go and relevant techs
+### Diving deeper into Postgres
 
 ### Go projects
 - [wb-order-nats](https://github.com/msmkdenis/wb-order-nats) - entrance project: http, echo, postgresql, nats-streaming, migrate, zap, testcontainers 
